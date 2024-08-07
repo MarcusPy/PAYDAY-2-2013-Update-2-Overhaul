@@ -1,0 +1,14 @@
+{
+	"name" : "ultrawide fix",
+	"description" : "",
+  	"priority" : 1,
+	"author" : "Marcus",
+	"version" : "u2",
+	"hooks" : [
+		{ "hook_id" : "core/lib/managers/viewport/coreviewportmanager", "script_path": "Ultrawide_Fix.lua" },
+		{ "hook_id" : "core/lib/managers/coreguidatamanager", "script_path": "Ultrawide_Fix.lua" },
+		{ "hook_id" : "lib/managers/mousepointermanager", "script_path": "Ultrawide_Fix.lua" },
+		{ "hook_id": "lib/managers/menu/menuscenemanager", "script_path" : "Ultrawide_Fix.lua" },
+		{ "hook_id" : "lib/managers/menumanager", "script_path" : "Ultrawide_Fix.lua" }
+	]
+}

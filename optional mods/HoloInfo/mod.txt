@@ -1,0 +1,11 @@
+{
+    "name" : "HoloInfo",
+    "description" : "",
+  	"priority" : 1,
+    "author" : "Luffy",
+	"hooks" : [
+		{"hook_id" : "lib/managers/menumanager","script_path" : "options.lua"},
+		{"hook_id" : "lib/managers/hudmanagerpd2","script_path" : "lua/HudManager.lua"},
+		{"hook_id" : "lib/managers/hud/hudobjectives","script_path" : "lua/HudObjectives.lua"}
+	]
+}
