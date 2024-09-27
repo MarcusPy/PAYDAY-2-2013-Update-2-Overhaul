@@ -1,10 +1,10 @@
 # PAYDAY-2-2013-Update-2-Overhaul
-### This is the official repository for the mods I've so far created for PAYDAY 2's update 2 from 2013, hereafer referred to as u2.
+### This is the official repository for the mods I've so far created for PAYDAY 2's update 2 from 2013, hereinafter referred to as u2.
 ### Content breakdown:
   - **BLT**
     - Edited to work with u2 and decluttered
   - **u2 Mod Manager** (hereafer u2mm)
-    - Due to BLT relying on base game functionality that hasn't been implemented yet, its Mod Options menu is completely defunct. So I came up with u2mm to help rectify this issue. While I'm quite certain it's more robust than BLT's, it's also significantly more difficult to use
+    - Due to BLT relying on base game functionality that hasn't been implemented yet, its Mod Options menu is completely defunct. So I came up with u2mm to help rectify this issue.
   - **Overhaul**
     - A comprehensive mod that alters virtually every relevant aspect of the game to some extent. Some of the features are:
       - Alpha/Beta visual restorations, such as GUI or HUD
