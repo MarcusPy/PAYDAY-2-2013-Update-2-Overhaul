@@ -1,5 +1,0 @@
-{
-  "mods/pd2-hoplib-master/": true,
-  "mods/pd2-kill-feed-master/": true,
-  "mods/[u2] Improvements Compendium/": true
-}
