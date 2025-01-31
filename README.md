@@ -1,7 +1,6 @@
 # PAYDAY-2-2013-Update-2-Overhaul
-### This is the official repository for the mods I've so far created for PAYDAY 2's update 2 from 2013, hereinafter referred to as u2.
-### Content breakdown:
-  - Section removed, there is simply too much to write about here. Just give it a go and see for yourself!
+## The goal of this modpack is to improve and expand upon the original PAYDAY 2 experience from 2013. You can expect new or expanded features such as: Harder Assaults, Economy Revamp, Skills Rework, UI Improvements and more! Download and see for yourself!
+## See you at the safehouse.
 
 ### Installation:
   1. **Downloading update 2**
