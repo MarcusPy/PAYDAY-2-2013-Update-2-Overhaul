@@ -22,10 +22,6 @@
       - While using the Overhaul won't overwrite your save file, because we occupy a different slot, your renderer_settings.xml will be overwritten
 
 ### Contact:
-  - Feel free to hit me up with with ideas, improvements or anything
+  - Feel free to hit me up with with ideas, improvements or anything really
   - **Discord:** marcus_py
   - **Steam:** https://steamcommunity.com/id/MarcusPy/
-
-### Additional information:
-  - **Not every feature that can be toggled has a u2mm setting implemented yet. Some of them can be toggled directly within the code**
-  - If you want to implement u2mm within your mod, check out Ultrawide Fix's code. It shows the basic implementation of u2mm framework. Source of u2mm also contains useful comments
