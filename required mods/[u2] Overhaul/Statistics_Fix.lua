@@ -1,1 +1,0 @@
-function StatisticsManager:killed( data, ... ) end
