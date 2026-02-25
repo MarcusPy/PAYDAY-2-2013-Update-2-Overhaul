@@ -1,0 +1,10 @@
+{
+    "name" : "[u2] Mod Manager",
+    "description" : "",
+  	"priority" : 1000,
+    "author" : "Marcus, https://steamcommunity.com/id/MarcusPy/",
+	"hooks" : [
+	    { "hook_id" : "core/lib/system/coresystem", "script_path": "framework.lua" },
+		{ "hook_id" : "lib/managers/menumanager", "script_path" : "framework.lua" }
+	]
+}
